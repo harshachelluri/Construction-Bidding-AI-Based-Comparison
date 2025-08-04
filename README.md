@@ -1,4 +1,4 @@
-# 🏗️ Construction Bidding AI-Based Comparison
+# 🏗️ Construction Bidding AI-Based Comparison  
 
 ### 📊 Intelligent Supplier Evaluation Tool for Construction Projects
 
